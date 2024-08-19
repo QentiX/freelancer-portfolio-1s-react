@@ -1,4 +1,4 @@
-import "./style.css";
+import './style.css'
 
 const Header = () => {
 	return (
@@ -6,7 +6,7 @@ const Header = () => {
 			<div className='header__wrapper'>
 				<h1 className='header__title'>
 					<strong>
-						Hi, my name is <em>Yuri</em>
+						Hi, my name is <em>Asta</em>
 					</strong>
 					<br />a frontend developer
 				</h1>
