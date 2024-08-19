@@ -2,7 +2,7 @@ import './styles/main.css'
 
 import Footer from './components/footer/Footer'
 import Navbar from './components/navbar/Navbar'
-import Contacts from './pages/Contacts'
+import Project from './pages/Project'
 
 function App() {
 	return (
@@ -13,7 +13,9 @@ function App() {
 
 			{/* <Projects /> */}
 
-			<Contacts />
+			<Project />
+
+			{/* <Contacts /> */}
 
 			<Footer />
 		</div>
